@@ -8,10 +8,4 @@ Features
 - **Logging**: Implements logging at different levels (INFO, WARNING, ERROR, CRITICAL) to track the application's behavior.
 - **Unit Tests**: Includes tests to ensure that the application works as expected.
 
-## Instructions for Running the Project Locally
-
-1. **Clone the Repository**:
-   ```bash
-   git clone git@github.com:YYEPEZX96/HW6.git
-   cd HW6
 
